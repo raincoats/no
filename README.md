@@ -9,7 +9,7 @@ However, the original `yes` program, brilliant as it may well be, is sorely lack
 
 ## no
 
-A program that does the opposite of `yes`: it sends a stream of n's to stdout. 
+A program that does the opposite of `yes`: it sends a stream of n's to stdout. Planning on adding Facebook connectivity in the not-too-distant future.
 
 ## sometimes
 
