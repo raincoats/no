@@ -3,9 +3,9 @@
 
 int main(void){
 
-	for(;;){
-		puts("n");
-	}
-
-	return 0;
+    for(;;){
+    	puts("n");
+    }
+    
+    return 0;
 }
